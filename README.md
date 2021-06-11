@@ -27,7 +27,7 @@
 
 ![](https://img.shields.io/badge/Vulkan%20API-1.2.170-informational?style=flat&logo=vulkan&logoColor=red&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/OpenGL-3.3,%204.5%20Core/ES-informational?style=flat&logo=opengl&logoColor=red&labelColor=dbdbdb)
-![](https://img.shields.io/badge/Qt-5.15,%206.0,%206.1%20%20c++/pySide2-informational?style=flat&logo=qt&logoColor=green&labelColor=dbdbdb)
+![](https://img.shields.io/badge/Qt-4,%205,%206%20%20c++/pySide2-informational?style=flat&logo=qt&logoColor=green&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/git-2.3-informational?style=flat&logo=git&logoColor=orange&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=atlassian&logoColor=blue&labelColor=dbdbdb)
 
