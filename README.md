@@ -40,7 +40,7 @@ You can find me on [![LinkedIn][1.2]][1], or via email at vlad.loghin00@gmail.co
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoghinVladDev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoghinVladDev&langs_count=6&layout=compact&theme=dark&exclude_repo=AR_DR_IMR_LPN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoghinVladDev&langs_count=10&layout=compact&theme=dark&exclude_repo=AR_DR_IMR_LPN)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LoghinVladDev/LoghinVladDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
