@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/C-c99,%20c11,%20c17-informational?style=flat&logo=c&logoColor=001c96&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/CMake-informational?style=flat&logo=cmake&logoColor=darkgreen&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/Java-open&minus;jdk12&minus;17-informational?style=flat&logo=java&logoColor=c76d00&labelColor=dbdbdb)
-![](https://img.shields.io/badge/Kotlin-1.3,%201.4-informational?style=flat&logo=kotlin&logoColor=c76d00&labelColor=dbdbdb)
+![](https://img.shields.io/badge/Kotlin-1.3,%201.4,%201.5-informational?style=flat&logo=kotlin&logoColor=c76d00&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/PHP-5,%206,%207,%208-informational?style=flat&logo=php&logoColor=7547ba&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/SQL-MariaDB/MySQL,%20OracleSQL,%20SQLite3-informational?style=flat&logo=mariadb&logoColor=blue&labelColor=dbdbdb)
 ![](https://img.shields.io/badge/python-2.7,3.6,3.8,3.9,3.10-informational?style=flat&logo=python&logoColor=0d4503&labelColor=dbdbdb)
