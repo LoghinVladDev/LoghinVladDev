@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Loghin Vlad. Welcome to my GitHub page
 
-* Embedded Cybersecurity Software Engineer
+* Static Analysis Developer
 * Optimization-Obsessed
 * Open-Source Enthusiast
 * Linux
